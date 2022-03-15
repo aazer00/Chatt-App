@@ -1,6 +1,6 @@
 # Overview
-Simple Chat app which lets users from different device communicate with each others.
-Features: Login, Registration, Add Friend, Private Chat, Group Chat
+Simple Chat app which lets users from different device communicate with each others. <br/>
+Features: Login, Registration, Add Friend, Private Chat, Group Chat <br/>
 Technologies: C#, SQL, MySQL,
 # Chatt-App
 Chat App using C# and PHP
